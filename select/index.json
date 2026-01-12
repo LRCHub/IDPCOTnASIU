@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "君が思い出になる前に",
+  "base_artist": "Spitz",
+  "createdAt": "2026-01-12T16:22:43.674049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_君が思い出になる前に_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_君が思い出になる前に_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/03_君が思い出になる前に_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/04_君が思い出になる前に_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/05_君が思い出になる前に_島谷ひとみ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/06_君が思い出になる前に_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/07_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君が思い出になる前に",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/08_君が思い出になる前に_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_君が思い出になる前に_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "君が思い出になる前に",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_君が思い出になる前に_スピッツ.txt"
+    }
+  ]
+}
